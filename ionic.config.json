@@ -1,0 +1,7 @@
+{
+  "name": "RedSocialBuenasPracticasAPelo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
